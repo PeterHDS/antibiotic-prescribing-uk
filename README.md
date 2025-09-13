@@ -101,9 +101,9 @@ If you use this project in your research or quality‑improvement work, please c
 
 ## Footnotes
 
-1. **OpenPrescribing measure definition:** The measure counts prescription items for all oral antibacterial drugs (BNF chapter 5.1) per 1 000 patients and excludes antituberculosis and antileprotic drugs【15314244486664†L37-L44】.
-2. **NICE NG15 guideline:** The guideline on antimicrobial stewardship emphasises changing prescribing practice to slow resistance and ensure antimicrobials remain effective【403482376174995†L133-L138】.
-3. **UK AMR 2024–2029 action plan:** The plan commits to optimising antimicrobial use and enhancing surveillance processes to inform interventions【638068673225811†L3799-L3813】.
-4. **Making Data Count (SPC):** NHS England’s programme advocates statistical process control over simple red‑amber‑green tables for understanding variation and guiding action【168095423775736†L90-L102】【168095423775736†L121-L140】.
-5. **English Prescribing Dataset (EPD) description:** The EPD combines BNF classification, organisational data and monthly prescription item counts and is published monthly with a two‑month delay【270676859359625†L129-L150】.
-6. **GP registered list size dataset:** Records the number of patients registered at a GP practice on the first day of each month, used as the denominator for prescribing rates【185040881176881†L45-L50】.
+1. **OpenPrescribing measure definition:** The measure counts prescription items for all oral antibacterial drugs (BNF chapter 5.1) per 1 000 patients and excludes antituberculosis and antileprotic drugs.
+2. **NICE NG15 guideline:** The guideline on antimicrobial stewardship emphasises changing prescribing practice to slow resistance and ensure antimicrobials remain effective.
+3. **UK AMR 2024–2029 action plan:** The plan commits to optimising antimicrobial use and enhancing surveillance processes to inform interventions.
+4. **Making Data Count (SPC):** NHS England’s programme advocates statistical process control over simple red‑amber‑green tables for understanding variation and guiding action.
+5. **English Prescribing Dataset (EPD) description:** The EPD combines BNF classification, organisational data and monthly prescription item counts and is published monthly with a two‑month delay.
+6. **GP registered list size dataset:** Records the number of patients registered at a GP practice on the first day of each month, used as the denominator for prescribing rates.
