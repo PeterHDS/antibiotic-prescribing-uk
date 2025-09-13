@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Antibiotic Prescribing in Primary Care (England): Reproducible Analytics for Stewardship"
+message: "If you use this project in your research or quality improvement work, please cite it."
+authors:
+  - family-names: Oluwatimilehin
+    given-names: Peter
+    affiliation: University of East London
+date-released: 2025-09-13
+version: 0.1.0
+keywords:
+  - antibiotic prescribing
+  - antimicrobial stewardship
+  - NHS England
+  - data science

@@ -1,0 +1,4 @@
+# Configuration listing prescribing data sources
+# month,url,file_name,type
+2024-01,,prescribing_2024_01.csv,prescribing
+2024-01,,listsize_2024_01.csv,list_size

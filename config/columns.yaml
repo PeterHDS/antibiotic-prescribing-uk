@@ -1,0 +1,10 @@
+prescribing:
+  practice_code: Practice
+  month: Month
+  bnf_code: BNF_CODE
+  items: Items
+
+list_size:
+  practice_code: Practice
+  month: Month
+  list_size: ListSize

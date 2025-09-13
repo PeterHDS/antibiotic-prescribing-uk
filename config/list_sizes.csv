@@ -1,0 +1,3 @@
+# Configuration listing GP list size data sources (optional)
+# month,url,file_name
+2024-01,,listsize_2024_01.csv

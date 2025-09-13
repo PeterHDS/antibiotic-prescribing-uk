@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter notebooks
+*.ipynb
+
+# Data directories
+data/raw/
+data/tidy/
+outputs/figures/
+outputs/tables/
+
+# MacOS
+.DS_Store
+
+# logs and other
+*.log

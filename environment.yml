@@ -1,0 +1,16 @@
+name: antibiotic-prescribing-uk
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - statsmodels
+  - requests
+  - tqdm
+  - jupyterlab
+  - pip
+  - pip:
+      - scikit-learn
